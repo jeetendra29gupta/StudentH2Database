@@ -31,5 +31,6 @@ spring.h2.console.enabled=true
 ```
 
 -[http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+
 -[http://localhost:8080/](http://localhost:8080/)
 
